@@ -513,6 +513,5 @@
 			<name>White Dragon Head: Cold Breath (Costs 2 Actions)</name>
 			<text>Tiamat breathes an icy blast in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.</text>
 		</legendary>
-			</monster><!--Tiamat-->
-	
-	</bestiary>
+	</monster><!--Tiamat-->
+</bestiary>
